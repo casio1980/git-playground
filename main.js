@@ -1,4 +1,6 @@
-// initial version on master
-const masterEntity = [];
+// develop version
+const developEntity = {
+    one: 1,
+};
 
-export default masterEntity;
+export default developEntity;
