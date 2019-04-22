@@ -1,6 +1,6 @@
-// develop version
-const developEntity = {
-    one: 1,
+// release/0.5 version
+const releaseEntity = {
+    two: 'release',
 };
 
-export default developEntity;
+export default releaseEntity;
