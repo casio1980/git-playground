@@ -1,6 +1,6 @@
 // release/0.5 version
 const releaseEntity = {
-    two: 'release',
+    two: 'should appear in master',
 };
 
 export default releaseEntity;
